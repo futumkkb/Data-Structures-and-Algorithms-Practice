@@ -1,4 +1,4 @@
-package BinaryTree;
+package DataStructures.BinaryTree;
 class TreeNode {
     int val;
     TreeNode left;
